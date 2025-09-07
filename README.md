@@ -87,3 +87,15 @@ cd Ev-vehicle-demand-prediction
 ---
 
 ## 📊 **Sample Visualizations**
+
+<img width="599" height="361" alt="image" src="https://github.com/user-attachments/assets/f744edd7-0dcb-4ba2-ac37-c0d872e2b327" />
+
+<br>
+
+<img width="494" height="507" alt="image" src="https://github.com/user-attachments/assets/1f63f01b-ef62-4361-a71d-bf14c45b026b" />
+
+<br>
+
+<img width="601" height="495" alt="image" src="https://github.com/user-attachments/assets/1e666ea4-c7d4-48fe-9c3b-f3e811eae56a" />
+
+
