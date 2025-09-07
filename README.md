@@ -5,17 +5,17 @@ This repository contains a machine learning project that forecasts Electric Vehi
 ---
 ## 🎯 **Project Goals**
 
-Explore and analyze EV registration data by county
+- Explore and analyze EV registration data by county
 
-Preprocess and clean real-world datasets
+- Preprocess and clean real-world datasets
 
-Engineer time-series features (lags, rolling averages, growth metrics)
+- Engineer time-series features (lags, rolling averages, growth metrics)
 
-Train and evaluate a Random Forest Regressor
+- Train and evaluate a Random Forest Regressor
 
-Forecast EV adoption for the next 36 months
+- Forecast EV adoption for the next 36 months
 
-Build a Streamlit app for interactive visualization and county-level insights.
+- Build a Streamlit app for interactive visualization and county-level insights.
 
 ---
 
@@ -50,39 +50,39 @@ EV_Vehicle_Charge_Demand/
 
 ## ⚙️ **Installation & Usage**
 
-Clone the repository
+- Clone the repository
 
-git clone https://github.com/Supraja1125/Ev-vehicle-demand-prediction.git
+- git clone https://github.com/Supraja1125/Ev-vehicle-demand-prediction.git
 cd Ev-vehicle-demand-prediction
 
 
-Install dependencies
+- Install dependencies
 
-pip install -r requirements.txt
-
-
-Run Jupyter Notebook (for model training & forecasting)
-
-jupyter notebook EV_Adoption_Forecasting.ipynb
+- pip install -r requirements.txt
 
 
-Launch the Streamlit App
+- Run Jupyter Notebook (for model training & forecasting)
 
-streamlit run app.py
+- jupyter notebook EV_Adoption_Forecasting.ipynb
+
+
+- Launch the Streamlit App
+
+- streamlit run app.py
 
 ---
 
 ## 📈 **How It Works**
 
-Registration data grouped by county & year
+- Registration data grouped by county & year
 
-Feature engineering: lag variables, rolling means, growth slopes
+- Feature engineering: lag variables, rolling means, growth slopes
 
-Random Forest model trained on historical EV adoption trends
+- Random Forest model trained on historical EV adoption trends
 
-Forecast horizon: 36 months into the future
+- Forecast horizon: 36 months into the future
 
-Streamlit app enables county-level adoption comparisons & visual insights
+- Streamlit app enables county-level adoption comparisons & visual insights
 
 ---
 
