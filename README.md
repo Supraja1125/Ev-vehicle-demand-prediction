@@ -1,8 +1,9 @@
-🔋 EV Vehicle Demand Prediction
+🔋**EV Vehicle Demand Prediction**
 
 This repository contains a machine learning project that forecasts Electric Vehicle (EV) adoption trends across Washington State counties. The predictions provide insights for charging station demand planning and EV infrastructure development.
 
-🎯 Project Goals
+---
+🎯 **Project Goals**
 
 Explore and analyze EV registration data by county
 
@@ -14,9 +15,11 @@ Train and evaluate a Random Forest Regressor
 
 Forecast EV adoption for the next 36 months
 
-Build a Streamlit app for interactive visualization and county-level insights
+Build a Streamlit app for interactive visualization and county-level insights.
 
-🛠️ Tech Stack
+---
+
+🛠️ **Tech Stack**
 
 Language: Python
 
@@ -30,7 +33,9 @@ IDE: Google Colab, VS Code
 
 Version Control: Git + GitHub
 
-📂 Repository Structure
+---
+
+📂 **Repository Structure**
 EV-vehicle-demand-prediction/
 ├── EV_Adoption_Forecasting.ipynb   # Jupyter Notebook (data prep, modeling)
 ├── Electric_Vehicle_Population_By_County.csv  # Raw dataset
@@ -40,7 +45,9 @@ EV-vehicle-demand-prediction/
 ├── requirements.txt                # Python dependencies
 ├── README.md                       # Documentation
 
-⚙️ Installation & Usage
+---
+
+⚙️ **Installation & Usage**
 
 Clone the repository
 
@@ -62,7 +69,9 @@ Launch the Streamlit App
 
 streamlit run app.py
 
-📈 How It Works
+---
+
+📈 **How It Works**
 
 Registration data grouped by county & year
 
@@ -74,4 +83,6 @@ Forecast horizon: 36 months into the future
 
 Streamlit app enables county-level adoption comparisons & visual insights
 
-📊 Sample Visualizations
+---
+
+📊 **Sample Visualizations**
