@@ -21,29 +21,30 @@ Build a Streamlit app for interactive visualization and county-level insights.
 
 ## 🛠️ **Tech Stack**
 
-Language: Python
+**Language** : Python
 
-Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels
+**Libraries** : pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels
 
-Model: RandomForestRegressor
+**Model** : RandomForestRegressor
 
-App Framework: Streamlit
+**App Framework** : Streamlit
 
-IDE: Google Colab, VS Code
+**IDE** : Google Colab, VS Code
 
-Version Control: Git + GitHub
+**Version Control** : Git + GitHub
 
 ---
 
-## 📂 **Repository Structure**
-EV-vehicle-demand-prediction/
-├── EV_Adoption_Forecasting.ipynb   # Jupyter Notebook (data prep, modeling)
-├── Electric_Vehicle_Population_By_County.csv  # Raw dataset
-├── preprocessed_ev_data.csv        # Cleaned dataset
-├── forecasting_ev_model.pkl        # Trained ML model
-├── app.py                          # Streamlit app
-├── requirements.txt                # Python dependencies
-├── README.md                       # Documentation
+# 📂 Project Structure  
+
+EV_Vehicle_Charge_Demand/  
+├── EV_Vehicle_Charging_Demand_Prediction.ipynb   # Jupyter Notebook  
+├── app.py                                       # Streamlit App  
+├── forecasting_ev_model.pkl                     # Trained ML model  
+├── preprocessed_ev_data.csv                     # Cleaned dataset  
+├── ev-car-factory.jpg                           # UI image  
+├── requirements.txt                             # Project dependencies  
+├── README.md                                    # Documentation
 
 ---
 
